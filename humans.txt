@@ -1,0 +1,12 @@
+/* The Humans Responsible & Colophon */
+/* humanstxt.org */
+
+/* TEAM */
+Developer:   jocko
+Site:        jocko.consulting
+Location:    Brussels, Belgium
+
+/* SITE */
+Language:    English, Dutch, French
+Components:  hugo, gulp.js, webpack, HTML5, CSS3, CSS Grid
+Software:    vim, inkskape, git, firefox

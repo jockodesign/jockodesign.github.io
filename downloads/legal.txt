@@ -1,0 +1,43 @@
+ Privacy & Cookies
+The Short
+
+We do not run any tracking mechanisms, or store data on user behavior ourselves. We do, however, (still) use Google Analytics.
+
+For any data we have access to, or may collect in the future, we promise not to sell or otherwise hand this over to any third party, unless we're required to by law or such third party processes the data for us and itself does not pass on your data.
+
+Any contact information we receive we'll use judiciously and promise not to spam you.
+
+
+Privacy Policy
+
+We are a German company and German data protection laws govern the use of this Web site.
+
+The site is offered by
+
+Crossbar.io GmbH
+Waldstraße 18
+91054 Erlangen
+
+and the person to address data privacy issues to is Alexander Gödde (alexander.goedde@crossbario.com).
+
+
+Handling of Personal Information
+
+Personal information is data which can be used to identify a person, i.e. data which can be traced back to a specific person. This includes names, email addresses or telephone numbers as well as data on personal preferences, hobbies, and memberships to organizations.
+
+Personal information is only collected, used and passed on by us where this is either permitted by law or where you have given us your consent to do so.
+Cookies
+
+Cookies are small text files stored in your browser. They are used to identify repeat users and track users across page visits. This allows better usability of Web sites (such as site-wide login). It also allows us to collect statistical data about Web site usage and to use this to improve our offerings.
+
+Users can influence the usage of cookies. Most browsers offer an option to limit or block the storage of cookies. This may negatively affect the usage of the Web site.
+Use of Google Analytics
+
+This Web site uses Google Analytics, a service of Google Inc. (“Google”). The service uses cookies. The collected information on Web site usage are usually transmitted to and stored on a Google server located in the USA. Since we have activated the service's IP anonymisation feature you IP address will be anonymized before transmittal to Google servers if you are accessing the Web site from a member state of the European Union or other member states of the European Economy Area.
+
+Under our direction, Google uses the transmitted information to analyze your usage of the Web site, to compile reports about the activities on the Web site and to provide other services in connection with the use of the Web site. The IP address collected by Google Analytics is not combined with other information which Google collects.
+
+More information about Google Analytics' terms of use and data protection can be found at http://www.google.com/analytics/terms/de.html and https://www.google.de/intl/de/policies/.
+Contacting Us
+
+When you contact us (e.g. via email or any contact forms provided on the Web site) we store the information provided in order to answer your request as well as to have it ready should there be additional questions regarding the same matter.
