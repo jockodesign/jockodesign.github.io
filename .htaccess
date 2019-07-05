@@ -313,3 +313,24 @@ FileETag None
   ExpiresByType image/svg+xml                         "access plus 1 month"
 
 </IfModule>
+
+# cache-control
+<IfModule mod_headers.c>
+
+  <FilesMatch "\\.(ico|jpe?g|png|gif|swf)$">
+    Header set Cache-Control "max-age=2592000, public"
+  </FilesMatch>
+
+  <FilesMatch "\\.(css)$">
+    Header set Cache-Control "max-age=604800, public"
+  </FilesMatch>
+
+  <FilesMatch "\\.(js)$">
+    Header set Cache-Control "max-age=216000, private"
+  </FilesMatch>
+
+  <FilesMatch "\\.(x?html?|php)$">
+    Header set Cache-Control "max-age=600, private, must-revalidate"
+  </FilesMatch>
+
+</IfModule>
